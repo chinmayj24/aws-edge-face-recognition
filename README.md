@@ -17,6 +17,8 @@ This project demonstrates an **IoT edge computing pipeline** where:
 
 ## ⚙️ Architecture
 
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/d3e57c96-967a-4313-aa9a-931a67a1afd1" />
+
 ### 🔹 Data Flow
 1. **IoT Client Device (EC2)**
    - Publishes Base64-encoded video frames via MQTT to topic:  
